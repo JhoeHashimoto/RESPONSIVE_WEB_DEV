@@ -1,0 +1,37 @@
+body{
+    background-color: lightgrey;
+}
+p{
+    background-color: red;
+    color: wheat;
+}
+
+/*   comentario em css */
+/* DEFININDO CLASSE */
+.esporte{
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: darkslategray;
+}
+/* DEFININDO ID */
+#abro{
+    font-size: 30px;
+    color:gold;
+}
+/*definindo classe*/
+.botaoAzul{
+    color: blue;
+    background-color: blueviolet;
+    border: solid 1px white;
+    text-align: center;
+}
+.botaoAzul:hover{
+    background-color:#2980b9 ;
+    color: white;
+}
+.paragrafoBorda{
+    border: solid 1px yellow;
+    text-align: center;
+}
+

@@ -1,0 +1,47 @@
+body{
+    background-color: chocolate;
+
+
+
+
+}
+
+p {
+    background-color:aliceblue;
+    color: wheat
+
+
+}
+
+.esporte{
+        color: #fff;
+        text-align: center;
+        text-transform: uppercase;
+        background-color: darkslategray;
+
+
+}
+/*DEFININDO ID */
+#abro{
+    font-size: 30px;
+    color: gold;
+
+}
+.botaoAzul{
+    color: blue;
+    background-color: blueviolet;
+    border: solid 1px white;
+    text-align: center;
+    /* não pode colocar (;) ponto e virgula*/
+}
+.botaoAzul:hover{
+    background-color: blue ;
+    color:white;
+}
+
+.paragrafoBorda{
+    border: solid 1px white
+    
+
+
+}

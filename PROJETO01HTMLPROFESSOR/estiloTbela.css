@@ -1,0 +1,14 @@
+table{
+    border-collapse: collapse; /*junção*/
+    border: 5px dashed yellow;
+    width: 300px; /* tamanho tabela*/
+}
+td{
+    border: 1px dotted black;
+    text-align: center;
+
+} 
+.classe {
+    border-bottom: 2px solid green;
+
+}
